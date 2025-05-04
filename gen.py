@@ -31,9 +31,9 @@ def main():
     import jinja2
     
     print("\nAll required packages are available:")
-    print(f"python-frontmatter version: {frontmatter.__version__}")
-    print(f"markdown version: {markdown.version}")
-    print(f"Jinja2 version: {jinja2.__version__}")
+    print(f"python-frontmatter")
+    print(f"markdown")
+    print(f"Jinja2")
 
 if __name__ == "__main__":
     main()
