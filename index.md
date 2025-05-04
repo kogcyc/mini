@@ -1,8 +1,8 @@
 ---
-title: TITLE
-desc: DESC
+title: The Home Page 
+desc: This is index.html
 image: 
 template: template_index.html
 permalink: index.html
 ---
-Content for the Home Page
+Every web site has an open page named: the home page -OR- index.html
