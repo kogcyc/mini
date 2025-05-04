@@ -1,8 +1,8 @@
 ---
-title: Home
-desc: The home page
+title: TITLE
+desc: DESC
 image: 
 template: template_index.html
 permalink: index.html
 ---
-Welcome to the Home Page
+Content for the Home Page
